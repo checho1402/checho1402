@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there 👋, I'm Sergio</h1>
+<h1 alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center">Hey there! I'm Sergio</h1>
 <h3 align="center">Computer Science Student | AI & Data Enthusiast 🚀</h3>
 
-<p>
+<p align="center">
   <img src="https://flagcdn.com/w20/es.png"/> Spanish — Native &nbsp;&nbsp;
   <img src="https://flagcdn.com/w20/us.png"/> English — B2 &nbsp;&nbsp;
   <img src="https://flagcdn.com/w20/br.png"/> Portuguese — Basic
 </p>
+
 ---
 
 ### 👨🏻‍💻 About Me
@@ -79,17 +80,19 @@ Here are some ideas to get you started:
 </p>
 
 
+<!-- TETRIS -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="assets/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="assets/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="assets/breakout-light.svg" />
+</picture>
 
-### 🤝 Connect with Me
-
-
-<p align="center">
-<a href="https://sergio-ramos-villena.com/"><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=google-chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/sergio-leandro-ramos-villena-45b0bb270"><img src="https://img.shields.io/badge/-Sergio%20Ramos%20Villena-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:slrv.ramosv@email.com"><img src="https://img.shields.io/badge/-slrv.ramosv@email.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/checho_1402"><img src="https://img.shields.io/badge/-@checho_1402-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/sergioleandro.ramosvillena"><img src="https://img.shields.io/badge/-@Sergio%20Ramos-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
 
 ---
 
@@ -103,16 +106,16 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- TETRIS -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="assets/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="assets/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="assets/breakout-light.svg" />
-</picture>
+
+
+### 🤝 Connect with Me
+
+
+<p align="center">
+<a href="https://sergio-ramos-villena.com/"><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=google-chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sergio-leandro-ramos-villena-45b0bb270"><img src="https://img.shields.io/badge/-Sergio%20Ramos%20Villena-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:slrv.ramosv@email.com"><img src="https://img.shields.io/badge/-slrv.ramosv@email.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/checho_1402"><img src="https://img.shields.io/badge/-@checho_1402-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/sergioleandro.ramosvillena"><img src="https://img.shields.io/badge/-@Sergio%20Ramos-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
 
