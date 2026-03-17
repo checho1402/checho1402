@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="Night gif" src="./assets/hand-wave.gif" width='40'/> <h1 align="center">Hey there! I'm Sergio ( he/him ) </h1>
+
+<img alt="Night Coding" src="./assets/hand-wave.gif" width='40' align="left"/><h1>Hey there! I'm Sergio ( he/him )</h1>
 
 <h3 align="center">Full Stack Developer | AI & Data Enthusiast 🚀</h3>
 
