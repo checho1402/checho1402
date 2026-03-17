@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there 👋, I'm Sergio</h1>
 <h3 align="center">Computer Science Student | AI & Data Enthusiast 🚀</h3>
 
+<p>
+  <img src="https://flagcdn.com/w20/es.png"/> Spanish — Native &nbsp;&nbsp;
+  <img src="https://flagcdn.com/w20/us.png"/> English — B2 &nbsp;&nbsp;
+  <img src="https://flagcdn.com/w20/br.png"/> Portuguese — Basic
+</p>
 ---
 
 ### 👨🏻‍💻 About Me
@@ -32,11 +37,6 @@ Here are some ideas to get you started:
 📄 Check my CV here: [Resume](https://www.sergio-ramos-villena.com/resume-es.pdf)
 
 
-<p>
-  <img src="https://flagcdn.com/w20/es.png"/> Spanish — Native &nbsp;&nbsp;
-  <img src="https://flagcdn.com/w20/us.png"/> English — B2 &nbsp;&nbsp;
-  <img src="https://flagcdn.com/w20/br.png"/> Portuguese — Basic
-</p>
 ---
 
 
@@ -84,9 +84,9 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://sergio-ramos-villena.com/"><img src="https://img.shields.io/badge/-sergio-ramos-villena.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/sergio-leandro-ramos-villena-45b0bb270"><img src="https://img.shields.io/badge/-Sergio%20Ramos%20Villena-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:slrv.ramosv@email.com"><img src="https://img.shields.io/badge/-slrv.ramosv@email.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://sergio-ramos-villena.com/"><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=google-chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sergio-leandro-ramos-villena-45b0bb270"><img src="https://img.shields.io/badge/-Sergio%20Ramos%20Villena-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:slrv.ramosv@email.com"><img src="https://img.shields.io/badge/-slrv.ramosv@email.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/checho_1402"><img src="https://img.shields.io/badge/-@checho_1402-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/sergioleandro.ramosvillena"><img src="https://img.shields.io/badge/-@Sergio%20Ramos-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
