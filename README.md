@@ -75,56 +75,23 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔬 Research & Projects
-
-- 🧬 **Quantum Machine Learning for Brain Tumor Detection**  
-  Applying quantum techniques to improve ML in medical imaging  
-
-- 🧪 **NeoArgosTools**  
-  Pipeline for neoantigen detection using AI + bioinformatics  
-  📍 Presented at *ICTIS 2025 (New York)*  
-
----
-
-### 🌎 Languages
-
-
 <p>
-  <img src="https://img.shields.io/badge/🇪🇸%20Spanish-Native-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🇺🇸%20English-B2-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🇧🇷%20Portuguese-Basic-green?style=flat-square"/>
+  <img src="https://flagcdn.com/w20/es.png"/> Spanish — Native &nbsp;&nbsp;
+  <img src="https://flagcdn.com/w20/us.png"/> English — B2 &nbsp;&nbsp;
+  <img src="https://flagcdn.com/w20/br.png"/> Portuguese — Basic
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Spanish-Native-red?style=flat-square&logo=googletranslate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/English-B2-blue?style=flat-square&logo=googletranslate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Portuguese-Basic-green?style=flat-square&logo=googletranslate&logoColor=white"/>
-</p>
-
-<p align="center">
-  🇪🇸 <b>Spanish</b> — Native &nbsp;&nbsp;&nbsp;
-  🇺🇸 <b>English</b> — B2 &nbsp;&nbsp;&nbsp;
-  🇧🇷 <b>Portuguese</b> — Basic
-</p>
----
 
 ### 🤝 Connect with Me
-
-<p align="center">
-<a href="https://github.com/checho1402"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/sergio-leandro-ramos-villena-45b0bb270"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:slrv.ramosv@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail"></a>
-</p>
 
 
 <p align="center">
 <a href="https://www.sergio-ramos-villena.com"><img src="https://img.shields.io/badge/-sergio-ramos-villena.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/sergio-leandro-ramos-villena-45b0bb270"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:slrv.ramosv@email.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sergio-leandro-ramos-villena-45b0bb270"><img src="https://img.shields.io/badge/-Sergio%20Ramos%20Villena-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:slrv.ramosv@email.com"><img src="https://img.shields.io/badge/-slrv.ramosv@email.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/checho_1402"><img src="https://img.shields.io/badge/-@checho_1402-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
+
 
 ---
 
