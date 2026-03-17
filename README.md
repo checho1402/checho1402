@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center">Hey there! I'm Sergio ( he/him ) </h1>
+<h1 alt="Night" src="./assets/Hand%20Wave.gif" width='40' align="center">Hey there! I'm Sergio ( he/him ) </h1>
 
 <h3 align="center">Computer Science Student | AI & Data Enthusiast 🚀</h3>
 
