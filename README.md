@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/sergio-leandro-ramos-villena-45b0bb270"><img src="https://img.shields.io/badge/-Sergio%20Ramos%20Villena-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:slrv.ramosv@email.com"><img src="https://img.shields.io/badge/-slrv.ramosv@email.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/checho_1402"><img src="https://img.shields.io/badge/-@checho_1402-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/sergioleandro.ramosvillena"><img src="https://img.shields.io/badge/-@sergioleandro.ramosvillena-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/sergioleandro.ramosvillena"><img src="https://img.shields.io/badge/-@Sergio%20Ramos-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 ---
