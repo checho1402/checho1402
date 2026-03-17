@@ -88,9 +88,12 @@ Here are some ideas to get you started:
 
 ### 🌎 Languages
 
-- Spanish 🇵🇪 (Native)  
-- English 🇺🇸 (B2)  
-- Portuguese 🇧🇷 (Basic)  
+
+<p>
+  <img src="https://img.shields.io/badge/🇪🇸%20Spanish-Native-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🇺🇸%20English-B2-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🇧🇷%20Portuguese-Basic-green?style=flat-square"/>
+</p>
 <p>
   <img src="https://img.shields.io/badge/Spanish-Native-red?style=flat-square&logo=googletranslate&logoColor=white"/>
   <img src="https://img.shields.io/badge/English-B2-blue?style=flat-square&logo=googletranslate&logoColor=white"/>
