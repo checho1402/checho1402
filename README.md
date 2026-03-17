@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center">Hey there! I'm Sergio <p align="center">
-  (he/him)
-</p></h1>
+<h1 alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center">Hey there! I'm Sergio ( he/him ) </h1>
 
 <h3 align="center">Computer Science Student | AI & Data Enthusiast 🚀</h3>
 
@@ -117,7 +115,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://sergio-ramos-villena.com/"><img src="https://img.shields.io/badge/-sergio-ramos-villena.com-3423A6?style=flat&logo=google-chrome&logoColor=white"/></a>
+<a href="https://sergio-ramos-villena.com/"><img src="https://img.shields.io/badge/-sergio-ramos-villena-3423A6?style=flat&logo=google-chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sergio-leandro-ramos-villena-45b0bb270"><img src="https://img.shields.io/badge/-Sergio%20Ramos%20Villena-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:slrv.ramosv@email.com"><img src="https://img.shields.io/badge/-slrv.ramosv@email.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/checho_1402"><img src="https://img.shields.io/badge/-@checho_1402-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
