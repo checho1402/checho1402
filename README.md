@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **checho1402/checho1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sergio%20Ramos%20Villena&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
 <h1 align="center">Hey there 👋, I'm Sergio</h1>
 <h3 align="center">Computer Science Student | AI & Data Enthusiast 🚀</h3>
 
@@ -31,10 +27,12 @@ Here are some ideas to get you started:
 📊 Experience in **Business Analytics, Web Development and Data Engineering**  
 🌱 Currently learning more about **Cloud, AI Systems and Scalable Architectures**  
 
-📄 Check my CV here: :contentReference[oaicite:0]{index=0}  
 
+📄 Check my CV here: [Resume](https://www.sergio-ramos-villena.com/resume-es.pdf)
 ---
 
+
+<img alt="github gif" src="./assets/github-skin.gif" align="right"/>
 ### 🛠 Tech Stack
 
 #### 💻 Programming Languages
@@ -87,14 +85,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 🏆 Achievements
-
-🥇 1st Place – Poster Competition (UCSP)  
-🎤 Speaker & Author – ISLA 2024  
-🧠 Co-author – ICTIS 2025  
-
----
-
 ### 🌎 Languages
 
 - Spanish 🇵🇪 (Native)  
@@ -111,32 +101,39 @@ Here are some ideas to get you started:
 <a href="mailto:slrv.ramosv@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail"></a>
 </p>
 
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=checho1402&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checho1402&layout=compact&theme=tokyonight"/>
+<a href="https://www.sergio-ramos-villena.com"><img src="https://img.shields.io/badge/-sergio-ramos-villena.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sergio-leandro-ramos-villena-45b0bb270"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:slrv.ramosv@email.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🎮 Fun Section
+### 📊 GitHub Stats
+<p align="center">
+<a href="https://github.com/checho1402">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=checho1402&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=checho1402&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+---
 
 <!-- TETRIS -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
+    srcset="assets/breakout-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
+    srcset="assets/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
+  <img alt="Breakout Game" src="assets/breakout-light.svg" />
 </picture>
 
----
-
-⭐️ From [Sergio Ramos Villena](https://github.com/checho1402)
