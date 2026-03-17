@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 alt="Night" src="./assets/Hand%20Wave.gif" width='40' align="center">Hey there! I'm Sergio ( he/him ) </h1>
 
-<h3 align="center">Computer Science Student | AI & Data Enthusiast 🚀</h3>
+<h3 align="center">Full Stack Developer | AI & Data Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://flagcdn.com/w20/es.png"/> Spanish — Native &nbsp;&nbsp;
