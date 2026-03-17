@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center">Hey there! I'm Sergio</h1>
+<p align="center">
+  (he/him)
+</p>
 <h3 align="center">Computer Science Student | AI & Data Enthusiast 🚀</h3>
 
 <p align="center">
