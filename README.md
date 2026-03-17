@@ -91,7 +91,17 @@ Here are some ideas to get you started:
 - Spanish 🇵🇪 (Native)  
 - English 🇺🇸 (B2)  
 - Portuguese 🇧🇷 (Basic)  
+<p>
+  <img src="https://img.shields.io/badge/Spanish-Native-red?style=flat-square&logo=googletranslate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/English-B2-blue?style=flat-square&logo=googletranslate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portuguese-Basic-green?style=flat-square&logo=googletranslate&logoColor=white"/>
+</p>
 
+<p align="center">
+  🇪🇸 <b>Spanish</b> — Native &nbsp;&nbsp;&nbsp;
+  🇺🇸 <b>English</b> — B2 &nbsp;&nbsp;&nbsp;
+  🇧🇷 <b>Portuguese</b> — Basic
+</p>
 ---
 
 ### 🤝 Connect with Me
