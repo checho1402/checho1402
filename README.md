@@ -29,48 +29,49 @@ Here are some ideas to get you started:
 
 
 📄 Check my CV here: [Resume](https://www.sergio-ramos-villena.com/resume-es.pdf)
+
 ---
 
 
 <img alt="github gif" src="./assets/github-skin.gif" align="right"/>
+
 ### 🛠 Tech Stack
 
 #### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+
+<p>
+  <!-- Lenguajes -->
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+</p>
 
 #### 🌐 Web & Frameworks
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+
+<p>
+  <!-- Web & Frameworks -->
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+</p>
 
 #### 📊 Data & Tools
-![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)
-![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)
+<p>
+  <!-- Data & Tools -->
+  <img alt="PowerBI" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
----
-
-### 💼 Experience
-
-- 🧠 **Business Analytics Intern – Sociedad Minera Cerro Verde (2025)**  
-  - Worked with **PowerBI, SAP, SharePoint & Snowflake**  
-  - Agile environments (Dev, Test, Prod)
-
-- 🚗 **Web Development Intern – GPS Scan (2024)**  
-  - Developed vehicle tracking system with real-time interface  
-
-- 💻 **IT Assistant & Community Manager – POLTRADE S.A.C**  
-  - Managed ERP system  
-  - Built marketing strategies and team  
+<h3>🛠 Tech Stack</h3>
 
 ---
 
